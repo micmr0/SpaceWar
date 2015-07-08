@@ -7,7 +7,7 @@ Using:
   * Skydome
   * DisplayList
   * glUunProject
-  * their own models 3DS
+  * my simple models 3DS
   * collision detection
   * texturing
   * shading
