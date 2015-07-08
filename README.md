@@ -12,6 +12,9 @@ Using:
   * texturing
   * shading
 
+![alt text](https://github.com/micmr0/SpaceWar/blob/master/screen.jpg "Screen")
+
+
 ##How to play
 Use your mouse, shoot by the left mouse button.
   
